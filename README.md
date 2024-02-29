@@ -4,9 +4,9 @@ oleh : Alherani Junivia Nugraha
 Description : Terdapat 3 Test Case dari Login, Add to Cart dan Checkout Product yang dijalankan sesuai test scenario dan test step seperti dibawah
 
 Test case :
-	- Success Login : Test Cases > Web > Success Login
-	- Success Add to Cart : Test Cases > Web > Success Add to Cart
-	- Success Checkout : Test Cases > Web > Success Checkout
+- Success Login : Test Cases > Web > Success Login
+- Success Add to Cart : Test Cases > Web > Success Add to Cart
+- Success Checkout : Test Cases > Web > Success Checkout
 
 Test suites :
 	Test suites > login to Checkout
