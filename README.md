@@ -16,7 +16,7 @@ https://docs.google.com/spreadsheets/d/1y_R1AnzOPANNP_A6P0yPsg6dkQCzGSEZxf54WV9z
 
 How to run :
 
-1. Git clone : 
+1. Git clone : https://github.com/junivia99/Sanber53-Tugas4-Katalon.git
 2. Open Katalon
 3. Buka file Test Suites > Login to Checkout 
 4. Klik run 
